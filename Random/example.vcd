@@ -1,0 +1,42 @@
+$date
+	Wed Feb 25 00:20:13 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 1 ! Sum $end
+$var wire 1 " Cout $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % Cin $end
+$scope module DUT $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 % Cin $end
+$var wire 1 " Cout $end
+$var wire 1 ! Sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1"
+1!
+1%
+1$
+1#
+#40
